@@ -1,0 +1,23 @@
+{
+  "name": "test-db",
+  "version": "1.0.0",
+  "description": "database for mecha godzilla and mothra",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liamdickson/test-db.git"
+  },
+  "author": "Liam Dickson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamdickson/test-db/issues"
+  },
+  "homepage": "https://github.com/liamdickson/test-db",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
